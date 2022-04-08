@@ -188,7 +188,22 @@ Kemudian menekan tombol checklist pada menu yang tertera maka akan keluar tampil
 
 **KODE HTML HOME**
 
+`Syntax`
+
 ![29.png](img/29.png)
 
 **KODE CSS EKSTERNAL**
 
+`Syntax`
+
+![31.png](img/31.png)
+
+![32.png](img/32.png)
+
+**HASIL DATA YANG DI INPUT TIDAK LENGKAP**
+
+![28.png](img/28.png)
+
+**HASIL KETIKA DATA YANG DI INPUT LENGKAP**
+
+![30.png](img/30.png)
